@@ -7,3 +7,12 @@ while True:
         break
 print("le quotient de X / Y est: ", x // y)
 print("le rest de X / y est: ", x % y)
+
+
+
+
+
+
+
+
+
